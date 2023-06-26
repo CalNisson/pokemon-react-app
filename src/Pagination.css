@@ -1,0 +1,16 @@
+.Previous {
+  display: flex;
+  justify-content: left;
+  margin-right: 20px;
+}
+
+.Next {
+  display: flex;
+  justify-content: right;
+  margin-left: 20px;
+}
+
+.Stats {
+  display: flex;
+  justify-content:center;
+}
